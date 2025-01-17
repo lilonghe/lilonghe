@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-I am a web programmer enginner  
+I am a programmer enginner  
 
 Home: https://www.lilonghe.net
