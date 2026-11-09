@@ -20,15 +20,6 @@
 - **工程化** — Vite · Webpack · Monorepo · Docker · Kubernetes
 - **AI** — LangGraph · MCP · AG-UI · Claude Code · Codex
 
-### 精选项目
-
-| 项目 | 简介 |
-| --- | --- |
-| [wex](https://github.com/lilonghe/wex) | 查看本机 AI CLI 的 MCP 与 skills，`npx @lilonghe/wex` |
-| [simple-blog](https://github.com/lilonghe/simple-blog) | 轻量、易扩展的博客系统，驱动 [note.lilonghe.net](https://note.lilonghe.net) |
-| [camera](https://github.com/lilonghe/camera) · [photos-map](https://github.com/lilonghe/photos-map) | 相机参数、照片 EXIF 与拍摄地点可视化 |
-| [iconfont-format](https://github.com/lilonghe/iconfont-format) | 一键下载并格式化 iconfont 图标到项目中 |
-
 ### 找到我
 
 [个人主页](https://www.lilonghe.net) · [博客](https://note.lilonghe.net) · [邮箱](mailto:lilonghe@outlook.com)
