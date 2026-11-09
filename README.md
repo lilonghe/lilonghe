@@ -9,7 +9,7 @@
 
 ### 现在在做什么
 
-- 把 AI Agent 接进真实业务，探索 Vibe Coding 的工程化
+- 把 AI Agent 接进真实业务
 - 写点东西：[随笔](https://note.lilonghe.net)，记录技术、生活和不成熟的想法
 
 ### 找到我
